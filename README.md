@@ -1,12 +1,12 @@
 # 06-python-api-challenge
 
-This is the module 6 challenge about getting the data by using api and creating summary tables and plots.
+This is the module 6 challenge of getting the data using API and creating summary tables and plots.
 
 ---
 ## The Main Script
-[WeatherPy]()
->This script gets the data from *openweathermap*, creates few scatter summary plots and defines a function that creates linear regression plots.
+[WeatherPy](https://github.com/XueXuanXu/06-python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb)
+>This script gets the data from *OpenWeatherMap*, creates a few scatter summary plots, and defines a function that creates linear regression plots.
 
 ---
-[VacationPy]()
->This script uses the data from *WeatherPy* and creates few maps.
+[VacationPy](https://github.com/XueXuanXu/06-python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb)
+>This script uses the data from *WeatherPy* and creates a few maps.
